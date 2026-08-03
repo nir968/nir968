@@ -1,4 +1,4 @@
-*Hi there, *
+Hi there, 
 ---
 I'm Nir, a Computer Science graduate with a passion for crafting smart, efficient, and real-world software.
 
