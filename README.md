@@ -1,9 +1,10 @@
 **Hi there, **
 ---
-I'm Nir, a rising 3rd-year Computer Science student with a passion for crafting smart, efficient, and real-world software.  
-I enjoy building systems that are both **useful and elegant**, and I’m always exploring new technologies — from **low-level code and algorithmic thinking** to **performance-oriented backend systems and thoughtful system design**.
+I'm Nir, a Computer Science graduate with a passion for crafting smart, efficient, and real-world software.
 
-I'm a **curious and fast learner**, always looking to expand my knowledge and challenge myself with new tools, concepts, and domains.
+I enjoy building systems that are both useful and elegant, and I’m always exploring new technologies — from low-level code and algorithmic thinking to performance-oriented backend systems and thoughtful system design.
+
+I'm a curious and fast learner, always looking to expand my knowledge and challenge myself with new tools, concepts, and domains.
 
 Whether it’s backend architecture, full-stack applications, or performance tuning — I love diving deep, solving problems, and turning complex ideas into working products.
 
