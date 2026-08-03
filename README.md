@@ -35,7 +35,7 @@ Whether it’s backend architecture, full-stack applications, or performance tun
 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nir-halfon-81b343305)  
-- 📬 Reach me at: `nir968969@gmail.com`
+- 📬 Reach me at: `nirhalfonn@gmail.com`
 
 
 
