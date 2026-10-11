@@ -43,7 +43,7 @@ I'm always happy to dive into the technical details and architecture during an i
 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nir-halfon-81b343305)  
-- 📬 Reach me at: `nirhalfonn@gmail.com`
+- 📬 [nirhalfonn@gmail.com](mailto:nirhalfonn@gmail.com)
 
 
 
