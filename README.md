@@ -8,7 +8,8 @@ I'm a curious and fast learner, always looking to expand my knowledge and challe
 
 Whether it’s backend architecture, full-stack applications, or performance tuning - I love diving deep, solving problems, and turning complex ideas into working products.
 
-💡 Note: Much of my recent work involving AI agents, data engineering, and complex backend systems is currently in private repositories. I'm always happy to dive into the technical details and architecture during an interview!
+💡 Note:  Much of my recent work involving AI agents, data engineering, and complex backend systems is currently in private repositories. 
+I'm always happy to dive into the technical details and architecture during an interview!
 
 ## 🛠️ Tech Stack
 
