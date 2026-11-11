@@ -1,15 +1,12 @@
 Hi there, 
 ---
-I'm Nir, a Computer Science graduate with a passion for crafting smart, efficient, and real-world software.
+I'm Nir, a Computer Science graduate and M.Sc. student at Tel Aviv University, driven by one question: how can this be done smarter?
 
-I enjoy building systems that are both useful and elegant, and I’m always exploring new technologies - from low-level code and algorithmic thinking to performance-oriented backend systems and thoughtful system design.
+I build AI-powered products end to end, from FastAPI backends and databases to LLM integrations and cloud deployment, with a growing focus on GenAI security.
 
-I'm a curious and fast learner, always looking to expand my knowledge and challenge myself with new tools, concepts, and domains.
-
-Whether it’s backend architecture, full-stack applications, or performance tuning - I love diving deep, solving problems, and turning complex ideas into working products.
-
-💡 Note:  Much of my recent work involving AI agents, data engineering, and complex backend systems is currently in private repositories. 
-I'm always happy to dive into the technical details and architecture during an interview!
+### What I'm working on
+- **GenAI Security Gateway**: detects prompt injection and prevents sensitive data leaks in LLM traffic, with a live monitoring dashboard.
+- **SafeBill**: an AI-powered bill and expense platform that turns invoices into structured data with Gemini tool calling.
 
 ## 🛠️ Tech Stack
 
